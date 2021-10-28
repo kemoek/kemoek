@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Kemal</h1>
-<p align="left"> <a href="https://twitter.com/kemoekim" target="blank"><img src="https://img.shields.io/twitter/follow/kemoekim?logo=twitter&style=for-the-badge" alt="kemoekim" /></a> </p>
-
 - 🌱 I’m currently learning **PostgreSQL and Spring.**
+
+- 📫 How to reach me **kemalekim07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
