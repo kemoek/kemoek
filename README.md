@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
-- 🌱 I’m currently learning **PostgreSQL** and **Spring.**
+- 🌱 I’m currently learning PostgreSQL and Spring.
 
 - 📫 How to reach me **kemalekim07@gmail.com**
 
