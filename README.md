@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemal</h1>
-- 🌱 I’m currently learning Flask and React.
+- 🌱 I’m currently learning Spring Boot and React.
 
 - 📫 How to reach me **kemalekim07@gmail.com**
 
